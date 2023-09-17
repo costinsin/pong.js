@@ -8,7 +8,7 @@ A multiplayer implementation of pong using socket.io.
 - Enjoy the game.
 
 ## Test online
-You can access this [link](https://pongjs1.herokuapp.com/) in order to test the deployment on Heroku.
+You can access this [link](https://pong-js.onrender.com) in order to test the deployment on Heroku.
 #### Requirements: 
   - a browser
   - a friend wtih a browser
